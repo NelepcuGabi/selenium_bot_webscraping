@@ -1,0 +1,387 @@
+date,home_team,score,away_team
+26-08-2023,AEK,1 - 1,Panserraikos
+03-09-2023,Volos New Football Club,2 - 3,AEK
+17-09-2023,AEK,1 - 1,Olympiakos
+25-09-2023,Panathinaikos,1 - 2,AEK
+28-09-2023,AEK,2 - 1,Atromitos
+02-10-2023,OFI,2 - 0,AEK
+08-10-2023,AEK,3 - 0,Panetolikos
+22-10-2023,Asteras Tripolis,0 - 3,AEK
+30-10-2023,AEK,2 - 0,PAOK
+04-11-2023,Kifisia,1 - 1,AEK
+12-11-2023,AEK,3 - 0,Lamia
+26-11-2023,Giannina,0 - 1,AEK
+04-12-2023,AEK,1 - 0,Aris Thessalon.
+18-12-2023,Panetolikos,2 - 2,AEK
+21-12-2023,Panserraikos,2 - 2,AEK
+03-01-2024,AEK,3 - 0,Volos New Football Club
+07-01-2024,Olympiakos,1 - 2,AEK
+14-01-2024,AEK,2 - 2,Panathinaikos
+21-01-2024,Atromitos,0 - 5,AEK
+28-01-2024,AEK,3 - 0,OFI
+04-02-2024,AEK,4 - 2,Asteras Tripolis
+11-02-2024,PAOK,1 - 1,AEK
+18-02-2024,AEK,3 - 0,Kifisia
+24-02-2024,Lamia,1 - 3,AEK
+28-02-2024,AEK,4 - 2,Giannina
+03-03-2024,Aris Thessalon.,3 - 3,AEK
+10-03-2024,Lamia,0 - 4,AEK
+20-08-2023,OFI,3 - 2,Aris Thessalon.
+27-08-2023,Lamia,1 - 0,Aris Thessalon.
+03-09-2023,Aris Thessalon.,3 - 2,Asteras Tripolis
+17-09-2023,PAOK,0 - 0,Aris Thessalon.
+24-09-2023,Aris Thessalon.,3 - 0,Panetolikos
+27-09-2023,Olympiakos,4 - 1,Aris Thessalon.
+01-10-2023,Aris Thessalon.,1 - 1,Kifisia
+21-10-2023,Aris Thessalon.,1 - 0,Panserraikos
+29-10-2023,Aris Thessalon.,2 - 0,Giannina
+05-11-2023,Aris Thessalon.,1 - 3,Atromitos
+11-11-2023,Volos New Football Club,0 - 2,Aris Thessalon.
+26-11-2023,Aris Thessalon.,2 - 0,Panathinaikos
+04-12-2023,AEK,1 - 0,Aris Thessalon.
+17-12-2023,Aris Thessalon.,1 - 0,OFI
+20-12-2023,Aris Thessalon.,2 - 2,Lamia
+03-01-2024,Asteras Tripolis,3 - 2,Aris Thessalon.
+07-01-2024,Aris Thessalon.,2 - 1,PAOK
+14-01-2024,Panetolikos,0 - 4,Aris Thessalon.
+21-01-2024,Aris Thessalon.,1 - 2,Olympiakos
+27-01-2024,Kifisia,0 - 1,Aris Thessalon.
+03-02-2024,Panserraikos,1 - 1,Aris Thessalon.
+10-02-2024,Giannina,0 - 0,Aris Thessalon.
+17-02-2024,Atromitos,0 - 2,Aris Thessalon.
+25-02-2024,Aris Thessalon.,2 - 0,Volos New Football Club
+28-02-2024,Panathinaikos,2 - 0,Aris Thessalon.
+03-03-2024,Aris Thessalon.,3 - 3,AEK
+10-03-2024,PAOK,0 - 1,Aris Thessalon.
+20-08-2023,PAOK,3 - 0,Asteras Tripolis
+26-08-2023,Asteras Tripolis,3 - 0,OFI
+03-09-2023,Aris Thessalon.,3 - 2,Asteras Tripolis
+17-09-2023,Asteras Tripolis,2 - 2,Giannina
+24-09-2023,Volos New Football Club,1 - 2,Asteras Tripolis
+28-09-2023,Asteras Tripolis,1 - 4,Panathinaikos
+02-10-2023,Atromitos,0 - 0,Asteras Tripolis
+22-10-2023,Asteras Tripolis,0 - 3,AEK
+29-10-2023,Asteras Tripolis,0 - 1,Lamia
+05-11-2023,Panetolikos,0 - 1,Asteras Tripolis
+12-11-2023,Asteras Tripolis,0 - 2,Olympiakos
+26-11-2023,Kifisia,1 - 3,Asteras Tripolis
+02-12-2023,Asteras Tripolis,1 - 0,Panserraikos
+17-12-2023,Asteras Tripolis,1 - 4,PAOK
+21-12-2023,OFI,0 - 2,Asteras Tripolis
+03-01-2024,Asteras Tripolis,3 - 2,Aris Thessalon.
+07-01-2024,Giannina,2 - 1,Asteras Tripolis
+14-01-2024,Asteras Tripolis,1 - 0,Volos New Football Club
+21-01-2024,Panathinaikos,2 - 0,Asteras Tripolis
+28-01-2024,Asteras Tripolis,3 - 1,Atromitos
+04-02-2024,AEK,4 - 2,Asteras Tripolis
+11-02-2024,Lamia,2 - 1,Asteras Tripolis
+19-02-2024,Asteras Tripolis,2 - 2,Panetolikos
+25-02-2024,Olympiakos,2 - 1,Asteras Tripolis
+28-02-2024,Asteras Tripolis,3 - 3,Kifisia
+03-03-2024,Panserraikos,2 - 1,Asteras Tripolis
+16-03-2024,Asteras Tripolis,0 - 2,Volos New Football Club
+30-03-2024,Panserraikos,? - ?,Asteras Tripolis
+27-08-2023,Olympiakos,4 - 0,Atromitos
+01-09-2023,Kifisia,2 - 1,Atromitos
+18-09-2023,Atromitos,1 - 1,Volos New Football Club
+23-09-2023,OFI,1 - 1,Atromitos
+28-09-2023,AEK,2 - 1,Atromitos
+02-10-2023,Atromitos,0 - 0,Asteras Tripolis
+08-10-2023,Panathinaikos,5 - 0,Atromitos
+22-10-2023,PAOK,2 - 0,Atromitos
+28-10-2023,Atromitos,3 - 2,Panetolikos
+05-11-2023,Aris Thessalon.,1 - 3,Atromitos
+11-11-2023,Atromitos,1 - 1,Panserraikos
+26-11-2023,Lamia,3 - 3,Atromitos
+03-12-2023,Atromitos,1 - 1,Giannina
+17-12-2023,Atromitos,3 - 2,Panathinaikos
+21-12-2023,Atromitos,0 - 0,Olympiakos
+04-01-2024,Atromitos,3 - 0,Kifisia
+07-01-2024,Volos New Football Club,1 - 2,Atromitos
+13-01-2024,Atromitos,1 - 1,OFI
+21-01-2024,Atromitos,0 - 5,AEK
+28-01-2024,Asteras Tripolis,3 - 1,Atromitos
+04-02-2024,Atromitos,0 - 2,PAOK
+10-02-2024,Panetolikos,1 - 0,Atromitos
+17-02-2024,Atromitos,0 - 2,Aris Thessalon.
+24-02-2024,Panserraikos,0 - 0,Atromitos
+28-02-2024,Atromitos,3 - 1,Lamia
+03-03-2024,Giannina,1 - 1,Atromitos
+16-03-2024,Atromitos,3 - 2,Giannina
+30-03-2024,OFI,? - ?,Atromitos
+20-08-2023,Giannina,3 - 0,Kifisia
+25-08-2023,Panetolikos,0 - 0,Giannina
+03-09-2023,Giannina,0 - 1,Panathinaikos
+17-09-2023,Asteras Tripolis,2 - 2,Giannina
+24-09-2023,Giannina,1 - 3,PAOK
+28-09-2023,Panserraikos,3 - 2,Giannina
+01-10-2023,Giannina,0 - 3,Olympiakos
+20-10-2023,Lamia,2 - 1,Giannina
+29-10-2023,Aris Thessalon.,2 - 0,Giannina
+05-11-2023,Giannina,1 - 1,Volos New Football Club
+11-11-2023,OFI,1 - 1,Giannina
+26-11-2023,Giannina,0 - 1,AEK
+03-12-2023,Atromitos,1 - 1,Giannina
+16-12-2023,Kifisia,4 - 2,Giannina
+21-12-2023,Giannina,0 - 0,Panetolikos
+03-01-2024,Panathinaikos,2 - 0,Giannina
+07-01-2024,Giannina,2 - 1,Asteras Tripolis
+14-01-2024,PAOK,4 - 0,Giannina
+20-01-2024,Giannina,0 - 2,Panserraikos
+28-01-2024,Olympiakos,3 - 1,Giannina
+04-02-2024,Giannina,1 - 4,Lamia
+10-02-2024,Giannina,0 - 0,Aris Thessalon.
+18-02-2024,Volos New Football Club,1 - 2,Giannina
+25-02-2024,Giannina,2 - 2,OFI
+28-02-2024,AEK,4 - 2,Giannina
+03-03-2024,Giannina,1 - 1,Atromitos
+16-03-2024,Atromitos,3 - 2,Giannina
+30-03-2024,Giannina,? - ?,Panetolikos
+20-08-2023,Giannina,3 - 0,Kifisia
+27-08-2023,PAOK,2 - 1,Kifisia
+01-09-2023,Kifisia,2 - 1,Atromitos
+17-09-2023,Kifisia,4 - 4,Panserraikos
+24-09-2023,Olympiakos,4 - 0,Kifisia
+27-09-2023,Kifisia,1 - 1,Lamia
+01-10-2023,Aris Thessalon.,1 - 1,Kifisia
+22-10-2023,Kifisia,0 - 0,OFI
+28-10-2023,Volos New Football Club,2 - 1,Kifisia
+04-11-2023,Kifisia,1 - 1,AEK
+12-11-2023,Kifisia,0 - 1,Panathinaikos
+26-11-2023,Kifisia,1 - 3,Asteras Tripolis
+02-12-2023,Panetolikos,3 - 0,Kifisia
+16-12-2023,Kifisia,4 - 2,Giannina
+21-12-2023,Kifisia,0 - 6,PAOK
+04-01-2024,Atromitos,3 - 0,Kifisia
+07-01-2024,Panserraikos,1 - 1,Kifisia
+14-01-2024,Kifisia,2 - 3,Olympiakos
+20-01-2024,Lamia,4 - 1,Kifisia
+27-01-2024,Kifisia,0 - 1,Aris Thessalon.
+04-02-2024,OFI,1 - 2,Kifisia
+11-02-2024,Kifisia,0 - 0,Volos New Football Club
+18-02-2024,AEK,3 - 0,Kifisia
+25-02-2024,Panathinaikos,1 - 1,Kifisia
+28-02-2024,Asteras Tripolis,3 - 3,Kifisia
+03-03-2024,Kifisia,2 - 2,Panetolikos
+16-03-2024,Kifisia,0 - 0,OFI
+30-03-2024,Volos New Football Club,? - ?,Kifisia
+18-08-2023,Volos New Football Club,2 - 2,Lamia
+27-08-2023,Lamia,1 - 0,Aris Thessalon.
+03-09-2023,Olympiakos,4 - 0,Lamia
+16-09-2023,Lamia,2 - 2,OFI
+23-09-2023,Panserraikos,2 - 0,Lamia
+27-09-2023,Kifisia,1 - 1,Lamia
+01-10-2023,Lamia,1 - 0,Panetolikos
+20-10-2023,Lamia,2 - 1,Giannina
+29-10-2023,Asteras Tripolis,0 - 1,Lamia
+04-11-2023,Lamia,1 - 2,Panathinaikos
+12-11-2023,AEK,3 - 0,Lamia
+26-11-2023,Lamia,3 - 3,Atromitos
+04-12-2023,PAOK,3 - 0,Lamia
+17-12-2023,Lamia,1 - 2,Volos New Football Club
+20-12-2023,Aris Thessalon.,2 - 2,Lamia
+03-01-2024,Lamia,1 - 0,Olympiakos
+08-01-2024,OFI,1 - 1,Lamia
+13-01-2024,Lamia,0 - 2,Panserraikos
+20-01-2024,Lamia,4 - 1,Kifisia
+27-01-2024,Panetolikos,1 - 2,Lamia
+04-02-2024,Giannina,1 - 4,Lamia
+11-02-2024,Lamia,2 - 1,Asteras Tripolis
+17-02-2024,Panathinaikos,2 - 2,Lamia
+24-02-2024,Lamia,1 - 3,AEK
+28-02-2024,Atromitos,3 - 1,Lamia
+03-03-2024,Lamia,0 - 2,PAOK
+10-03-2024,Lamia,0 - 4,AEK
+20-08-2023,OFI,3 - 2,Aris Thessalon.
+26-08-2023,Asteras Tripolis,3 - 0,OFI
+03-09-2023,OFI,1 - 0,PAOK
+16-09-2023,Lamia,2 - 2,OFI
+23-09-2023,OFI,1 - 1,Atromitos
+27-09-2023,Panetolikos,1 - 1,OFI
+02-10-2023,OFI,2 - 0,AEK
+22-10-2023,Kifisia,0 - 0,OFI
+30-10-2023,OFI,0 - 2,Olympiakos
+06-11-2023,Panserraikos,2 - 1,OFI
+11-11-2023,OFI,1 - 1,Giannina
+24-11-2023,OFI,1 - 1,Volos New Football Club
+03-12-2023,Panathinaikos,4 - 0,OFI
+17-12-2023,Aris Thessalon.,1 - 0,OFI
+21-12-2023,OFI,0 - 2,Asteras Tripolis
+03-01-2024,PAOK,4 - 0,OFI
+08-01-2024,OFI,1 - 1,Lamia
+13-01-2024,Atromitos,1 - 1,OFI
+20-01-2024,OFI,1 - 0,Panetolikos
+28-01-2024,AEK,3 - 0,OFI
+04-02-2024,OFI,1 - 2,Kifisia
+10-02-2024,Olympiakos,4 - 0,OFI
+19-02-2024,OFI,4 - 0,Panserraikos
+25-02-2024,Giannina,2 - 2,OFI
+28-02-2024,Volos New Football Club,3 - 1,OFI
+03-03-2024,OFI,2 - 2,Panathinaikos
+16-03-2024,Kifisia,0 - 0,OFI
+30-03-2024,OFI,? - ?,Atromitos
+20-08-2023,Olympiakos,2 - 0,Panserraikos
+27-08-2023,Olympiakos,4 - 0,Atromitos
+03-09-2023,Olympiakos,4 - 0,Lamia
+17-09-2023,AEK,1 - 1,Olympiakos
+24-09-2023,Olympiakos,4 - 0,Kifisia
+27-09-2023,Olympiakos,4 - 1,Aris Thessalon.
+01-10-2023,Giannina,0 - 3,Olympiakos
+22-10-2023,Olympiakos,1 - 1,Panathinaikos
+30-10-2023,OFI,0 - 2,Olympiakos
+05-11-2023,Olympiakos,2 - 4,PAOK
+12-11-2023,Asteras Tripolis,0 - 2,Olympiakos
+25-11-2023,Olympiakos,3 - 1,Panetolikos
+03-12-2023,Volos New Football Club,2 - 2,Olympiakos
+18-12-2023,Panserraikos,0 - 1,Olympiakos
+21-12-2023,Atromitos,0 - 0,Olympiakos
+03-01-2024,Lamia,1 - 0,Olympiakos
+07-01-2024,Olympiakos,1 - 2,AEK
+14-01-2024,Kifisia,2 - 3,Olympiakos
+21-01-2024,Aris Thessalon.,1 - 2,Olympiakos
+28-01-2024,Olympiakos,3 - 1,Giannina
+04-02-2024,Panathinaikos,2 - 0,Olympiakos
+10-02-2024,Olympiakos,4 - 0,OFI
+18-02-2024,PAOK,1 - 4,Olympiakos
+25-02-2024,Olympiakos,2 - 1,Asteras Tripolis
+28-02-2024,Panetolikos,1 - 2,Olympiakos
+03-03-2024,Olympiakos,3 - 0,Volos New Football Club
+10-03-2024,Olympiakos,1 - 3,Panathinaikos
+20-08-2023,PAOK,3 - 0,Asteras Tripolis
+27-08-2023,PAOK,2 - 1,Kifisia
+03-09-2023,OFI,1 - 0,PAOK
+17-09-2023,PAOK,0 - 0,Aris Thessalon.
+24-09-2023,Giannina,1 - 3,PAOK
+27-09-2023,PAOK,3 - 0,Volos New Football Club
+01-10-2023,Panathinaikos,2 - 2,PAOK
+22-10-2023,PAOK,2 - 0,Atromitos
+30-10-2023,AEK,2 - 0,PAOK
+05-11-2023,Olympiakos,2 - 4,PAOK
+12-11-2023,PAOK,2 - 1,Panetolikos
+25-11-2023,PAOK,5 - 0,Panserraikos
+04-12-2023,PAOK,3 - 0,Lamia
+17-12-2023,Asteras Tripolis,1 - 4,PAOK
+21-12-2023,Kifisia,0 - 6,PAOK
+03-01-2024,PAOK,4 - 0,OFI
+07-01-2024,Aris Thessalon.,2 - 1,PAOK
+14-01-2024,PAOK,4 - 0,Giannina
+21-01-2024,Volos New Football Club,1 - 5,PAOK
+28-01-2024,PAOK,2 - 1,Panathinaikos
+04-02-2024,Atromitos,0 - 2,PAOK
+11-02-2024,PAOK,1 - 1,AEK
+18-02-2024,PAOK,1 - 4,Olympiakos
+25-02-2024,Panetolikos,1 - 3,PAOK
+28-02-2024,Panserraikos,0 - 2,PAOK
+03-03-2024,Lamia,0 - 2,PAOK
+10-03-2024,PAOK,0 - 1,Aris Thessalon.
+26-08-2023,Panathinaikos,3 - 0,Volos New Football Club
+03-09-2023,Giannina,0 - 1,Panathinaikos
+16-09-2023,Panetolikos,0 - 5,Panathinaikos
+25-09-2023,Panathinaikos,1 - 2,AEK
+28-09-2023,Asteras Tripolis,1 - 4,Panathinaikos
+01-10-2023,Panathinaikos,2 - 2,PAOK
+08-10-2023,Panathinaikos,5 - 0,Atromitos
+22-10-2023,Olympiakos,1 - 1,Panathinaikos
+29-10-2023,Panathinaikos,5 - 0,Panserraikos
+04-11-2023,Lamia,1 - 2,Panathinaikos
+12-11-2023,Kifisia,0 - 1,Panathinaikos
+26-11-2023,Aris Thessalon.,2 - 0,Panathinaikos
+03-12-2023,Panathinaikos,4 - 0,OFI
+17-12-2023,Atromitos,3 - 2,Panathinaikos
+20-12-2023,Volos New Football Club,0 - 3,Panathinaikos
+03-01-2024,Panathinaikos,2 - 0,Giannina
+07-01-2024,Panathinaikos,2 - 1,Panetolikos
+14-01-2024,AEK,2 - 2,Panathinaikos
+21-01-2024,Panathinaikos,2 - 0,Asteras Tripolis
+28-01-2024,PAOK,2 - 1,Panathinaikos
+04-02-2024,Panathinaikos,2 - 0,Olympiakos
+11-02-2024,Panserraikos,0 - 3,Panathinaikos
+17-02-2024,Panathinaikos,2 - 2,Lamia
+25-02-2024,Panathinaikos,1 - 1,Kifisia
+28-02-2024,Panathinaikos,2 - 0,Aris Thessalon.
+03-03-2024,OFI,2 - 2,Panathinaikos
+10-03-2024,Olympiakos,1 - 3,Panathinaikos
+25-08-2023,Panetolikos,0 - 0,Giannina
+02-09-2023,Panserraikos,1 - 1,Panetolikos
+16-09-2023,Panetolikos,0 - 5,Panathinaikos
+24-09-2023,Aris Thessalon.,3 - 0,Panetolikos
+27-09-2023,Panetolikos,1 - 1,OFI
+01-10-2023,Lamia,1 - 0,Panetolikos
+08-10-2023,AEK,3 - 0,Panetolikos
+21-10-2023,Panetolikos,2 - 0,Volos New Football Club
+28-10-2023,Atromitos,3 - 2,Panetolikos
+05-11-2023,Panetolikos,0 - 1,Asteras Tripolis
+12-11-2023,PAOK,2 - 1,Panetolikos
+25-11-2023,Olympiakos,3 - 1,Panetolikos
+02-12-2023,Panetolikos,3 - 0,Kifisia
+18-12-2023,Panetolikos,2 - 2,AEK
+21-12-2023,Giannina,0 - 0,Panetolikos
+04-01-2024,Panetolikos,3 - 2,Panserraikos
+07-01-2024,Panathinaikos,2 - 1,Panetolikos
+14-01-2024,Panetolikos,0 - 4,Aris Thessalon.
+20-01-2024,OFI,1 - 0,Panetolikos
+27-01-2024,Panetolikos,1 - 2,Lamia
+03-02-2024,Volos New Football Club,1 - 1,Panetolikos
+10-02-2024,Panetolikos,1 - 0,Atromitos
+19-02-2024,Asteras Tripolis,2 - 2,Panetolikos
+25-02-2024,Panetolikos,1 - 3,PAOK
+28-02-2024,Panetolikos,1 - 2,Olympiakos
+03-03-2024,Kifisia,2 - 2,Panetolikos
+16-03-2024,Panetolikos,3 - 0,Panserraikos
+30-03-2024,Giannina,? - ?,Panetolikos
+20-08-2023,Olympiakos,2 - 0,Panserraikos
+26-08-2023,AEK,1 - 1,Panserraikos
+02-09-2023,Panserraikos,1 - 1,Panetolikos
+17-09-2023,Kifisia,4 - 4,Panserraikos
+23-09-2023,Panserraikos,2 - 0,Lamia
+28-09-2023,Panserraikos,3 - 2,Giannina
+21-10-2023,Aris Thessalon.,1 - 0,Panserraikos
+29-10-2023,Panathinaikos,5 - 0,Panserraikos
+06-11-2023,Panserraikos,2 - 1,OFI
+11-11-2023,Atromitos,1 - 1,Panserraikos
+25-11-2023,PAOK,5 - 0,Panserraikos
+29-11-2023,Volos New Football Club,1 - 0,Panserraikos
+02-12-2023,Asteras Tripolis,1 - 0,Panserraikos
+18-12-2023,Panserraikos,0 - 1,Olympiakos
+21-12-2023,Panserraikos,2 - 2,AEK
+04-01-2024,Panetolikos,3 - 2,Panserraikos
+07-01-2024,Panserraikos,1 - 1,Kifisia
+13-01-2024,Lamia,0 - 2,Panserraikos
+20-01-2024,Giannina,0 - 2,Panserraikos
+27-01-2024,Panserraikos,2 - 2,Volos New Football Club
+03-02-2024,Panserraikos,1 - 1,Aris Thessalon.
+11-02-2024,Panserraikos,0 - 3,Panathinaikos
+19-02-2024,OFI,4 - 0,Panserraikos
+24-02-2024,Panserraikos,0 - 0,Atromitos
+28-02-2024,Panserraikos,0 - 2,PAOK
+03-03-2024,Panserraikos,2 - 1,Asteras Tripolis
+16-03-2024,Panetolikos,3 - 0,Panserraikos
+30-03-2024,Panserraikos,? - ?,Asteras Tripolis
+18-08-2023,Volos New Football Club,2 - 2,Lamia
+26-08-2023,Panathinaikos,3 - 0,Volos New Football Club
+03-09-2023,Volos New Football Club,2 - 3,AEK
+18-09-2023,Atromitos,1 - 1,Volos New Football Club
+24-09-2023,Volos New Football Club,1 - 2,Asteras Tripolis
+27-09-2023,PAOK,3 - 0,Volos New Football Club
+21-10-2023,Panetolikos,2 - 0,Volos New Football Club
+28-10-2023,Volos New Football Club,2 - 1,Kifisia
+05-11-2023,Giannina,1 - 1,Volos New Football Club
+11-11-2023,Volos New Football Club,0 - 2,Aris Thessalon.
+24-11-2023,OFI,1 - 1,Volos New Football Club
+29-11-2023,Volos New Football Club,1 - 0,Panserraikos
+03-12-2023,Volos New Football Club,2 - 2,Olympiakos
+17-12-2023,Lamia,1 - 2,Volos New Football Club
+20-12-2023,Volos New Football Club,0 - 3,Panathinaikos
+03-01-2024,AEK,3 - 0,Volos New Football Club
+07-01-2024,Volos New Football Club,1 - 2,Atromitos
+14-01-2024,Asteras Tripolis,1 - 0,Volos New Football Club
+21-01-2024,Volos New Football Club,1 - 5,PAOK
+27-01-2024,Panserraikos,2 - 2,Volos New Football Club
+03-02-2024,Volos New Football Club,1 - 1,Panetolikos
+11-02-2024,Kifisia,0 - 0,Volos New Football Club
+18-02-2024,Volos New Football Club,1 - 2,Giannina
+25-02-2024,Aris Thessalon.,2 - 0,Volos New Football Club
+28-02-2024,Volos New Football Club,3 - 1,OFI
+03-03-2024,Olympiakos,3 - 0,Volos New Football Club
+16-03-2024,Asteras Tripolis,0 - 2,Volos New Football Club
+30-03-2024,Volos New Football Club,? - ?,Kifisia
